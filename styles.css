@@ -1,0 +1,18 @@
+.car-background{
+    background-image: url(images/car.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: white;
+    height: 550px;
+}
+.filter{
+
+}
+.container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
